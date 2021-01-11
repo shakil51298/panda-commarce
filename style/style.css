@@ -1,7 +1,15 @@
 .panda-card-body{
-    border: 0;
+    border-radius: 10px;
+    border: none;
 }
 .panda-footer{
     border: 0;
     background-color: white;
+}
+.panda-carousel{
+    border-radius:2em;
+}
+.rounded-3{
+border-radius: 50px solid red;
+
 }
